@@ -1,3 +1,4 @@
+"use strict";
 var stadiumsDataSource = [
     {
         name: "Fenway Park",

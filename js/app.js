@@ -1,3 +1,5 @@
+"use strict";
+
 function Stadium(name, team, location) {
     var s = this;
     this.name = name;
